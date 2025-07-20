@@ -1,6 +1,6 @@
-# 🛡️ CanaraVeriGPT
+# 🛡️ Smart Privacy Vault
 
-Welcome to **CanaraVeriGPT** — a secure, smart, and simple data verification system powered by tokens and GPT intelligence! 🚀
+Welcome to smart privacy vault with granular consent — a secure, smart, and simple data verification system powered by tokens and GPT intelligence! 🚀
 
 ---
 
